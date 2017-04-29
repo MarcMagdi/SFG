@@ -1,5 +1,5 @@
 # Signal Flow Graph
-Signal Flow Graph is a Calculator to calculate the overall transfer function for a given graph.
+Signal Flow Graph is a Calculator to calculate the overall transfer function for a given graph using Mason's formula.
 
 ### Project Features: 
 + Supported with Unit Tests
